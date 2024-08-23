@@ -9,6 +9,7 @@ MethSurvPredictor is a robust machine learning model designed to predict the pro
 ## Model on Hugging Face
 
 You can find and use the MethSurvPredictor model directly on [Hugging Face](https://huggingface.co/csycsycsy/MethSurvPredictor).
+
 ---
 license: mit
 ---
