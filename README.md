@@ -1,5 +1,7 @@
 # MethSurvPredictor
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Model-blue)](https://huggingface.co/csycsycsy/MethSurvPredictor)
+## Model on Hugging Face
+[![Hugging Face](https://raw.githubusercontent.com/huggingface/transformers/master/docs/source/imgs/huggingface_logo.png)](https://huggingface.co/csycsycsy/MethSurvPredictor)
 
 MethSurvPredictor is a robust machine learning model designed to predict the prognosis of Low-Grade Glioma (LGG) patients by analyzing methylation data, utilizing a Multi-Layer Perceptron (MLP) architecture to deliver accurate survival predictions.
 ## Model on Hugging Face
