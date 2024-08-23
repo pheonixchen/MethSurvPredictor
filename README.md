@@ -1,8 +1,6 @@
 # MethSurvPredictor
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Model-blue)](https://huggingface.co/csycsycsy/MethSurvPredictor)
-## Model on Hugging Face[![Hugging Face](https://th.bing.com/th/id/OIP.Bz8NJZhyjcCKXPEpSPQD4wHaE8?rs=1&pid=ImgDetMain)](https://huggingface.co/csycsycsy/MethSurvPredictor)
-
-
+## Model on Hugging Face
 <a href="https://huggingface.co/csycsycsy/MethSurvPredictor">
     <img src="https://th.bing.com/th/id/OIP.Bz8NJZhyjcCKXPEpSPQD4wHaE8?rs=1&pid=ImgDetMain" alt="Hugging Face" width="150"/>
 </a>
